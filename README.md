@@ -19,7 +19,7 @@ You should have received a copy of the GNU General Public License along with thi
 <ul>
   <li>Write the name of the XML Node</li>
   <li>Click "ESCOLHER ARQUIVO" and search the XML File</li>
-  <li>Click "GERAR TABELA" to create an ppopulate the html table</li>
+  <li>Click "GERAR TABELA" to create dynamically the html table</li>
 </ul>
 
 <h2>Book Sample </h2>
