@@ -14,7 +14,8 @@ You should have received a copy of the GNU General Public License along with thi
 </p>
 
 <h5> Follow the steps to populate the html table </h5>
-<img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/000-top.png">
+<img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/000-Top.png">
+
 <ul>
   <li>Write the name of the XML Node</li>
   <li>Click "ESCOLHER ARQUIVO" and search the XML File</li>
