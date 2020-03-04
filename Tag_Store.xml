@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+   <STORE>
+      <Author>Paulo Coelho</Author>
+      <Code>9780062355300</Code>
+      <Name>Alchemist</Name>
+      <Price>88.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Places Jennifer Niven</Author>
+      <Code>9780141357034</Code>
+      <Name>All Bright</Name>
+      <Price>137.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Di Morrissey</Author>
+      <Code>9781489465245</Code>
+      <Name>Arcadia</Name>
+      <Price>88.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Barry Lopez</Author>
+      <Code>9780099583455</Code>
+      <Name>Arctic Dreams</Name>
+      <Price>110.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Sun Tzu</Author>
+      <Code>9780007420124</Code>
+      <Name>Art War</Name>
+      <Price>145.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Kate Atkinson</Author>
+      <Code>9780552996181</Code>
+      <Name>Behind Scenes At Museum</Name>
+      <Price>138.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Hana Noka</Author>
+      <Code>9781543956504</Code>
+      <Name>Besa Po</Name>
+      <Price>124.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Richard Morgan</Author>
+      <Code>9780575081253</Code>
+      <Name>Broken Angels</Name>
+      <Price>47.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Andre Aciman</Author>
+      <Code>9781786495259</Code>
+      <Name>Call Me By Your Name</Name>
+      <Price>87.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Marjane Satrapi</Author>
+      <Code>9780375714832</Code>
+      <Name>Complete Persepolis</Name>
+      <Price>94.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Harry Kressing</Author>
+      <Code>9781941147665</Code>
+      <Name>Cook Valancourt 20th Century Classics</Name>
+      <Price>167.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Deborah Harkness</Author>
+      <Code>9780143119678</Code>
+      <Name>Discovery Witches</Name>
+      <Price>174.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Veronica Roth</Author>
+      <Code>9780007420421</Code>
+      <Name>Divergent</Name>
+      <Price>186.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Dante</Author>
+      <Code>9781840221664</Code>
+      <Name>Divine Comedy</Name>
+      <Price>136.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Gail Honeyman</Author>
+      <Code>9780008172145</Code>
+      <Name>Eleanor Oliphant is Completely Fine</Name>
+      <Price>157.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Robert Jordan</Author>
+      <Code>9780356503820</Code>
+      <Name>Eye World</Name>
+      <Price>146.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Tim Winton</Author>
+      <Code>9781447253471</Code>
+      <Name>Eyrie</Name>
+      <Price>60.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Jorge Borges</Author>
+      <Code>9780141183848</Code>
+      <Name>Fictions</Name>
+      <Price>102.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Claire Rayner</Author>
+      <Code>9781849821162</Code>
+      <Name>First Blood</Name>
+      <Price>152.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Elif Shafak</Author>
+      <Code>9780241972939</Code>
+      <Name>Forty Rules Love</Name>
+      <Price>51.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Steven Erikson</Author>
+      <Code>9780765348784</Code>
+      <Name>Gardens Moon</Name>
+      <Price>105.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Doris Lessing</Author>
+      <Code>9780007498772</Code>
+      <Name>Golden NoteSTORE</Name>
+      <Price>125.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Donna Tartt</Author>
+      <Code>9780349139630</Code>
+      <Name>Goldfinch</Name>
+      <Price>193.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Charles Dickens</Author>
+      <Code>9780141198897</Code>
+      <Name>Great Expectations</Name>
+      <Price>119.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Kathryn Stockett</Author>
+      <Code>9780141039282</Code>
+      <Name>Help</Name>
+      <Price>75.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Isabel Allende</Author>
+      <Code>9780099528562</Code>
+      <Name>House Spirits</Name>
+      <Price>140.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Suzanne Collins</Author>
+      <Code>9780545265355</Code>
+      <Name>Hunger Games Trilogy Box Set</Name>
+      <Price>86.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Colleen Hoover</Author>
+      <Code>9781471156267</Code>
+      <Name>It Ends With Us</Name>
+      <Price>74.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Charlotte Bronte</Author>
+      <Code>9781853260209</Code>
+      <Name>Jane Eyre</Name>
+      <Price>71.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Isabel Allende</Author>
+      <Code>9781471156229</Code>
+      <Name>Japanese Lover</Name>
+      <Price>174.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Jeffrey Archer</Author>
+      <Code>9781509808694</Code>
+      <Name>Kane Abel</Name>
+      <Price>85.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Harper Lee</Author>
+      <Code>9780099549482</Code>
+      <Name>Kill Mockingbird</Name>
+      <Price>135.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Khaled Hosseini</Author>
+      <Code>9781526604736</Code>
+      <Name>Kite Runner</Name>
+      <Price>166.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Randy Pausch</Author>
+      <Code>9780340978504</Code>
+      <Name>Last Lecture</Name>
+      <Price>117.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Kate Atkinson</Author>
+      <Code>9780552779685</Code>
+      <Name>Life After Life</Name>
+      <Price>159.25</Price>
+   </STORE>
+   <STORE>
+      <Author>C S Lewis</Author>
+      <Code>9780007323128</Code>
+      <Name>Lion Witch Wardrobe</Name>
+      <Price>106.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Hanya Yanagihara</Author>
+      <Code>9781447294832</Code>
+      <Name>Little Life</Name>
+      <Price>116.25</Price>
+   </STORE>
+   <STORE>
+      <Author>May Alcott</Author>
+      <Code>9780147514011</Code>
+      <Name>Little Women Louisa</Name>
+      <Price>107.25</Price>
+   </STORE>
+   <STORE>
+      <Author>J R R Tolkien</Author>
+      <Code>9780261102385</Code>
+      <Name>Lord Rings</Name>
+      <Price>171.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Christina Henry</Author>
+      <Code>9781785655685</Code>
+      <Name>Lost Boy</Name>
+      <Price>151.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Rick Riordan</Author>
+      <Code>9780141325491</Code>
+      <Name>Lost Hero Heroes Olympus STORE 1</Name>
+      <Price>50.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Richard Dawkins</Author>
+      <Code>9780552778053</Code>
+      <Name>Magic Reality</Name>
+      <Price>158.25</Price>
+   </STORE>
+   <STORE>
+      <Author>John Fowles</Author>
+      <Code>9780099478355</Code>
+      <Name>Magus</Name>
+      <Price>92.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Mikhail Bulgakov</Author>
+      <Code>9780140455465</Code>
+      <Name>Master Margarita</Name>
+      <Price>128.25</Price>
+   </STORE>
+   <STORE>
+      <Author>James Dashner</Author>
+      <Code>9781908435132</Code>
+      <Name>Maze Runner</Name>
+      <Price>48.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Arthur Golden</Author>
+      <Code>9780099771517</Code>
+      <Name>Memoirs Geisha</Name>
+      <Price>155.25</Price>
+   </STORE>
+   <STORE>
+      <Author>John Steinbeck</Author>
+      <Code>9780141023571</Code>
+      <Name>Mice Men</Name>
+      <Price>141.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Cassandra Clare</Author>
+      <Code>9781406307627</Code>
+      <Name>Mortal Instruments 1 City Bones</Name>
+      <Price>178.25</Price>
+   </STORE>
+   <STORE>
+      <Author>David Arnold</Author>
+      <Code>9781472218902</Code>
+      <Name>Mosquitoland</Name>
+      <Price>78.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Eiji Yoshikawa</Author>
+      <Code>9781568364278</Code>
+      <Name>Musashi Epic Novel Samurai Era</Name>
+      <Price>162.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Umberto Eco</Author>
+      <Code>9780099466031</Code>
+      <Name>Name Rose</Name>
+      <Price>83.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Patrick Rothfuss</Author>
+      <Code>9780575081406</Code>
+      <Name>Name Wind</Name>
+      <Price>93.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Michael Ende</Author>
+      <Code>9780140386332</Code>
+      <Name>Neverending Story</Name>
+      <Price>132.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Brent Weeks</Author>
+      <Code>9780316201285</Code>
+      <Name>Night Angel</Name>
+      <Price>146.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Diana Gabaldon</Author>
+      <Code>9780440212560</Code>
+      <Name>Outlander</Name>
+      <Price>159.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Dan Richards</Author>
+      <Code>9781786891556</Code>
+      <Name>Outpost</Name>
+      <Price>115.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Richard Powers</Author>
+      <Code>9781784708245</Code>
+      <Name>Overstory</Name>
+      <Price>191.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Thomas Hardy</Author>
+      <Code>9780199538492</Code>
+      <Name>Pair Blue Eyes</Name>
+      <Price>44.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Leif Enger</Author>
+      <Code>9781472154507</Code>
+      <Name>Peace Like River</Name>
+      <Price>68.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Oscar Wilde</Author>
+      <Code>9780141199498</Code>
+      <Name>Picture Dorian Gray</Name>
+      <Price>79.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Barbara Kingsolver</Author>
+      <Code>9780062213709</Code>
+      <Name>Poisonwood Bible</Name>
+      <Price>109.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Henry James</Author>
+      <Code>9780141199122</Code>
+      <Name>Portrait Lady</Name>
+      <Price>53.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Bryce Courtenay</Author>
+      <Code>9780143004554</Code>
+      <Name>Power One</Name>
+      <Price>85.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Jane Austen</Author>
+      <Code>9780141199078</Code>
+      <Name>Pride Prejudice</Name>
+      <Price>178.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Vikram Chandra</Author>
+      <Code>9780571234493</Code>
+      <Name>Red Earth Pouring Rain</Name>
+      <Price>58.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Claire Chao</Author>
+      <Code>9780999393819</Code>
+      <Name>Remembering Shanghai</Name>
+      <Price>135.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Jenna Moreci</Author>
+      <Code>9780999735213</Code>
+      <Name>Saviors Champion</Name>
+      <Price>126.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Erica Bauermeister</Author>
+      <Code>9780425232095</Code>
+      <Name>School Essential Ingredients</Name>
+      <Price>75.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Sue Townsend</Author>
+      <Code>9780141046426</Code>
+      <Name>Secret Diary Adrian Mole Aged 13 3 4</Name>
+      <Price>86.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Sue Monk Kidd</Author>
+      <Code>9780747266839</Code>
+      <Name>Secret Life Bees</Name>
+      <Price>179.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Julian Barnes</Author>
+      <Code>9780099570332</Code>
+      <Name>Sense Ending</Name>
+      <Price>140.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Leigh Bardugo</Author>
+      <Code>9781780622286</Code>
+      <Name>Six Crows</Name>
+      <Price>87.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Em Bailey</Author>
+      <Code>9781328901064</Code>
+      <Name>Special Ones</Name>
+      <Price>184.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Adam Kay</Author>
+      <Code>9781509858637</Code>
+      <Name>This is Going Hurt</Name>
+      <Price>190.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Sarah J Maas</Author>
+      <Code>9781599906959</Code>
+      <Name>Throne Glass</Name>
+      <Price>176.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Cecelia Ahern</Author>
+      <Code>9780007350452</Code>
+      <Name>Time My Life</Name>
+      <Price>99.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Audrey Niffenegger</Author>
+      <Code>9780099464464</Code>
+      <Name>Time Travelers Wife</Name>
+      <Price>172.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Henry James</Author>
+      <Code>9780199559190</Code>
+      <Name>Washington Square</Name>
+      <Price>76.25</Price>
+   </STORE>
+   <STORE>
+      <Author>Gregory Maguire</Author>
+      <Code>9780061350962</Code>
+      <Name>Wicked</Name>
+      <Price>49.25</Price>
+   </STORE>
+</CATALOG>
