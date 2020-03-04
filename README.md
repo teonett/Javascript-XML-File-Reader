@@ -22,19 +22,19 @@ You should have received a copy of the GNU General Public License along with thi
   <li>Click "GERAR TABELA" to create an ppopulate the html table</li>
 </ul>
 
-<h5>Book</h5>
+<h2>Book Sample </h2>
 
 <img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/001-Book.png">
 
-<h5>Store</h5>
+<h2>Store Sample</h2>
 
 <img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/002-Store.png">
 
-<h5>Customer</h5>
+<h2>Customer Sample</h2>
 
 <img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/003-Customer.png">
 
-<h5>Order</h5>
+<h2>Order Sample</h2>
 
 <img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/004-Order.png">
 
