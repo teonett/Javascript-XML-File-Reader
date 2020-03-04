@@ -1,6 +1,6 @@
 # Javascript XML File Reader
 
-<p> Exmple how to transcribe XML file into Html Table</p>
+<p> Exmple how to transcribe XML and create dynamically the Html Table</p>
 
 <h4>Copyright (C) 2020 Jose Teotonio (teonett@gmail.com)</h4>
 <p>
@@ -13,7 +13,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>
 </p>
 
-<h5> Follow the steps to populate the html table </h5>
+<h5> Follow the steps to create dynamically the html table </h5>
 <img src="https://github.com/teonett/Javascript-XML-File-Reader/blob/master/000-Top.png">
 
 <ul>
